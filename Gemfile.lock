@@ -17,7 +17,7 @@ PATH
       tty-which (~> 0.5, >= 0.5.0)
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     chronic (0.10.2)
     deep_merge (1.2.2)
